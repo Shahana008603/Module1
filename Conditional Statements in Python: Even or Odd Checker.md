@@ -19,11 +19,9 @@ else:
    print("Odd")
 
 ## Output
-n=int(input())
-if n%2==0:
-   print("Even")
-else:
-   print("Odd")
+
+<img width="467" height="373" alt="WhatsApp Image 2026-05-28 at 12 20 21 PM" src="https://github.com/user-attachments/assets/97826113-a76f-4d86-ba34-376b2602f277" />
+
 
 ## Result
 Thus the program has been written and output has been verified
